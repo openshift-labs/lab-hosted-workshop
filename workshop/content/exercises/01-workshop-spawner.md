@@ -1,7 +1,7 @@
 ---
 Title: Workshop Spawner
 PrevPage: ../setup
-NextPage: ../finish
+NextPage: 02-hosted-workshop
 ---
 
 Workshops are provided as a container image. The image includes the workshop content, slides and any additional files required to do the workshop. The image also bundles commonly used UNIX utilities and programming language runtimes, as well as the applications which provide the workshop dashboard environment and terminal.

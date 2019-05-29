@@ -1,7 +1,7 @@
 ---
 Sort: 3
 Title: Workshop Summary
-PrevPage: exercises/10-presenter-slides
+PrevPage: exercises/02-hosted-workshop
 ExitSign: Finish Workshop
 ---
 
